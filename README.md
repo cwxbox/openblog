@@ -1,4 +1,4 @@
-# tourister
+# openblog
 
 ##  开发环境及工具
 
@@ -10,17 +10,14 @@ IDE：微信开发者工具
 
 ![image-20210531190511124](https://i.loli.net/2021/05/31/Bv4OlQFjPqGc2Tw.png)
 
-### 时旅小程序
 
-读万卷书，书行万里路。便是对这个小程序的名字做的最好的解释。穿梭于书本间，品春秋轶事，合上书本，又好似黄粱美梦。这便是这个小程序所带给你的。
-
-整个小程序分为四个板块：旅行、分类、发现、我的
+整个小程序分为四个板块：主页、分类、发现、我的
 
 ### 旅行板块：
 
 ![image-20210531191213577](https://i.loli.net/2021/05/31/U7F1LSE4buDe6hG.png)
 
-旅行板块主要分三个部分：小记、时记、小影三个部分
+主页板块主要分三个部分：小记、时记、小影三个部分
 
 小记：分享一句让你心的话
 
@@ -73,3 +70,13 @@ koa+vue前后端分离架构调用云函数实现评论区管理
 分类：
 
 ![image-20210531194510457](https://i.loli.net/2021/05/31/lEINxO871rAPTf3.png)
+
+
+微信公众号：
+
+![XrX4PI.jpg](https://cwxbox.oss-cn-hangzhou.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+
+QQ交流群：
+
+![XrXaVJ.png](https://cwxbox.oss-cn-hangzhou.aliyuncs.com/%E7%BC%96%E7%A8%8B%E4%BA%A4%E6%B5%81%E5%88%86%E4%BA%AB%E7%BE%A4%E7%BE%A4%E8%81%8A%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+
